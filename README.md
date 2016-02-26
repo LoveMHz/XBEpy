@@ -1,5 +1,6 @@
 XBEpy
 =====
+![Image of XBEpy](https://raw.githubusercontent.com/LoveMHz/XBEpy/gh-pages/images/header_xbepy.png)
 
 [![Build Status](https://travis-ci.org/LoveMHz/XBEpy.svg)](https://travis-ci.org/LoveMHz/XBEpy)
 
